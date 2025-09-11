@@ -53,11 +53,10 @@ Q17. (a && !b) || (!a && b)
 Q18. The getDisplayValue method returned a three-digit String.
 
 Q19. Yes there is a difference.
-    Ex: if written with the original return "" + value;--> 67
-        if written with return value + ""; --> 76
+    Ex: if written with the original return "" + value;--> "6" + 7 = 67
+        if written with return value + ""; --> 7 + "6" = 76
         
 Q20. 9 + 3 + "cat" = 12cat
-     "cat" + 3 + 9 = cat12
-     it's just basic addition.
+     "cat" + 3 + 9 = cat39
      
 Q21. 
