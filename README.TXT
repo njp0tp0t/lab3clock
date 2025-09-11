@@ -57,7 +57,7 @@ Q19. Yes there is a difference.
         if written with return value + ""; --> 76
         
 Q20. 9 + 3 + "cat" = 12cat
-     "cat" + 3 +9 = cat12
+     "cat" + 3 + 9 = cat12
      it's just basic addition.
      
 Q21. 
