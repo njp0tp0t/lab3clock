@@ -12,7 +12,10 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
-
+Q1. class is design, object is runtime. 
+Q2. When the programs code changes.
+Q3. when objects are created, updated, or removed.
+Q4. private Instructor tutor;
 Q5. NumberDisplay hours = new NumberDisplay(24);
     hours.increment();
     When the value hits 24, it rolls over 0.
